@@ -1,0 +1,18 @@
+{
+  "name": "atom-arduino-custom-editor",
+  "main": "./lib/atom-arduino-custom-editor",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-arduino-custom-editor:toggle"
+  },
+  "repository": "https://github.com/atom/atom-arduino-custom-editor",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
