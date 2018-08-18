@@ -9,4 +9,4 @@ This is an Atom plugin for custom Arduino uploading that targets the Wi-Fi board
   - NodeMCU V0.9
   - NodeMCU V1.0
 - ESP32:
-  -Devkit v1
+  - Devkit v1
